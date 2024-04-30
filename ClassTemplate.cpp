@@ -11,6 +11,7 @@ A template basically allows you to use same vaiables , functions , methods for d
 template<class OR namespace name_of_var_to_use_instead_of_datatypr>
 the above line allows to use the specified variable instead of a inbuilt one
 */
+
 template<class T>
 class AddElements {
     public:

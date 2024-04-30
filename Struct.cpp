@@ -5,6 +5,7 @@
 #include <algorithm>
 using namespace std;
 
+
 struct stu1{
     int age;
     string name;

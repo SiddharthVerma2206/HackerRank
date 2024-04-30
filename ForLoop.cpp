@@ -12,6 +12,7 @@ int main() {
         if(i<=9){
         cout<<arr[i-1];
         }
+        
         else if (i>9 && i%2==0) {cout<<"even";}
         else if (i>9 && i%2!=0) {cout<<"odd";}
         cout<<"\n" ;   

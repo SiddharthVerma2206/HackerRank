@@ -7,6 +7,7 @@ int main() {
     int n;
     cin>>n;
     
+    
     if(n>=1 && n<=9){
         if(n==1) {cout<<"one";}
         else if(n==2){cout<<"two";}

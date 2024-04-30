@@ -2,6 +2,7 @@
 #include <iomanip> 
 using namespace std;
 
+
 int main() {
 	int T; cin >> T;
 	cout << setiosflags(ios::uppercase); //sets the outputs from here on out to uppercase   

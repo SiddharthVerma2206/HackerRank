@@ -16,6 +16,7 @@ class Student{
             cin>>scores[i];
         }
         
+        
     };
     int calculateTotalScore(){
         for (int i = 0; i < 5; i++)

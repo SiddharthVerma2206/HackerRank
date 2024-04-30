@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 int main(){
     int narr,narg,t=0;
     cin>>narr>>narg;

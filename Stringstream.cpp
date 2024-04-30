@@ -25,7 +25,6 @@ string replacestring(string str , int* ptr) {
     
 }
 
-
 int main() {
     int* ptr = new int(1);          //pointer for no of words in last string(streamed)
     string str;
