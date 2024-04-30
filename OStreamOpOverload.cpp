@@ -16,7 +16,6 @@ private:
     string last_name_;
 };
 
-
 // Enter your code here.
 ostream& operator<<( ostream& streamed ,Person& object){
     streamed<<"first_name="<<  object.get_first_name()<<","<<

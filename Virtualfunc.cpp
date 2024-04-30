@@ -13,6 +13,7 @@ Program to take following things as input :-
 OUTPUT:-
 all the values of input and and a last value indicating which object of the class is it(first , second etc.)
 */
+
 class Person {
     public:
     string name ;

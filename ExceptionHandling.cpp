@@ -7,6 +7,7 @@
 using namespace std;
 
 //refer to "exceptionHandling" on hackerrank
+//commenting is not done
 
 class Server {
 private:

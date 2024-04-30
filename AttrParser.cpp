@@ -1,4 +1,4 @@
-
+//commenting is not done
 #include <cmath>
 #include <cstdio>
 #include <vector>
