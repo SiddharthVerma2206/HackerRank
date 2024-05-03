@@ -4,6 +4,7 @@
 
 using namespace std;
 
+// My Code Is from here
 class Message {
     private: 
     string msg;
@@ -36,7 +37,7 @@ public:
         return msg;
     }
 };
-
+//to here
 class Recipient {
 public:
     Recipient() {}
@@ -68,7 +69,6 @@ public:
     }
 };
 
-//commenting is not done
 
 
 int main() {
